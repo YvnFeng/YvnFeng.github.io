@@ -1,7 +1,7 @@
 
 # Site wide configuration
 
-title: Qiyuan(Yvonna) Feng
+title: Qiyuan Feng
 locale: en_US
 logo: # logo.png # filename of a logo image that has been placed into your images directory
 
@@ -9,7 +9,7 @@ logo: # logo.png # filename of a logo image that has been placed into your image
 owner:
   name: Qiyuan(Yvonna) Feng
   avatar: biophoto.JPG
-  bio: Undergraduate Student at University of Rochester, Brain and Cognitive Science, Computer Science 
+  bio: Undergraduate Student at University of Rochester 
   email: qfeng2@u.rochester.edu
   twitter: #twitter username (no '@')
   linkedin: #linkedin
