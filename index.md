@@ -3,8 +3,9 @@ layout: home
 excerpt: "About Me..."
 ---
 
-This project is meant to help students and researchers across University of Rochester create their
-  own hosted academic website for free with GitHub. 
+Hello! My name is Qiyuan Feng (冯祺媛). I am an undergraduate student at the University of Rochester (expected graduation year 2024), where I studied Brain and Cognitive Science (B.S.) and Computer Science (B.A.). My current research is primarily on visual perception and attention.
+
+For a more complete record of my academic journey, please see my [CV](/cv).
 
 ## About this Site
 
