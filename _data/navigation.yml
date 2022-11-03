@@ -2,14 +2,17 @@
 - title: Home
   url: /
 
-- title: Contact
-  url: /contact/
-
 # - title: Presentations
 #   url: /presentations/
 
-- title: Resume
-  url: /resume/
+- title: CV
+  url: /cv/
 
 - title: Research
   url: /research/
+  
+- title: Misc
+  url: /misc/
+  
+- title: Contact
+  url: /contact/
