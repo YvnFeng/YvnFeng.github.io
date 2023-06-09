@@ -3,7 +3,7 @@ layout: post-index
 title: Research
 ---
 
-AP_poster.png 
+Coming Soon... 
 
 <!-- # COMMENT EXPLAINING THIS PAGE -- 
 We're currently using this section of the site to host these tutorials,
